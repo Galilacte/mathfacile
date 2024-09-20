@@ -3,6 +3,7 @@
 
 	.Hypatie d’Alexandrie
 	.Ada Lovelace
+	.Edsger Dijkstra
 
 
  le nom des branches qui n’ont pas été fusionnées dans la branche principale « main »
